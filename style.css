@@ -1,0 +1,20 @@
+body{
+	font-family: helvetica;
+	background-color: brown;
+	color: white;
+}
+img{
+	width: 25%;
+	height: 25%;
+	float: left;
+	border: 2px solid navy;
+	margin-right: 20px;
+}
+div{
+	float: left;
+}
+mark{
+	background-color: black;
+	color: white;
+	padding: 10px;
+}
